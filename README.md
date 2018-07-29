@@ -1,1 +1,1 @@
-Android App for tracking user's movement.
+Android App for tracking user movement.
