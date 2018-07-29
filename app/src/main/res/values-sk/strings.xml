@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Trackovanie užívateľa</string>
+    <string name="app_desc">Trackovanie užívateľa</string>
+    <string name="action_settings">Nastavenia</string>
+    <string name="action_starttrack">Štart Trackovania !</string>
+    <string name="action_cleartrack">Vymazať Track</string>
+    <string name="action_mainfragment">Hlavný Fragment</string>
+    <string name="locscleared">Trakovanie vymazané</string>
+    <string name="locchanged">Zmena Lokácie</string>
+    <string name="action_north">Najsevernejši zaznamenaný bod</string>
+    <string name="action_south">Najjužnejši zaznamenaný bod</string>
+    <string name="action_west">Najzápadnejši zaznamenaný bod</string>
+    <string name="action_east">Najvýchodnejši zaznamenaný bod</string>
+    <string name="closesheet">Zatvoriť sheet</string>
+    <string name="expandsheet">Expandovať sheet</string>
+
+</resources>

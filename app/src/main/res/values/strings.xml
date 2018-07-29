@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Demoad user Tracking</string>
+    <string name="app_desc">Tracking user system</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_starttrack">Start Tracking !</string>
+    <string name="action_cleartrack">Clear Track</string>
+    <string name="action_mainfragment">Main Fragment</string>
+    <string name="locscleared">Locations cleared</string>
+    <string name="locchanged">Location changed</string>
+    <string name="action_north">Most northern position</string>
+    <string name="action_south">Most southern position</string>
+    <string name="action_west">Most wester position</string>
+    <string name="action_east">Most eastern position</string>
+    <string name="closesheet">Close sheet</string>
+    <string name="expandsheet">Expand sheet</string>
+
+</resources>
